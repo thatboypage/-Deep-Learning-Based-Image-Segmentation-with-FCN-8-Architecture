@@ -12,9 +12,9 @@
 This project implements a **Fully Convolutional Network (FCN-8)** for **pixel-level image segmentation** on the **Multi-MNIST dataset**, where overlapping handwritten digits are separated into distinct segmented regions.  
 The model achieves a **mean Intersection over Union (IoU) of 0.6497** — equivalent to a **grade of 64.97**, showing strong generalization across all ten classes.
 
-> ⚙️ This project was inspired by the **DeepLearning.AI “Advanced Computer Vision with TensorFlow”** course on Udemy.  
-> All implementation, analysis, and documentation in this repository were written independently by the author for learning, research, and portfolio purposes.  
-> No proprietary course materials or instructor code are redistributed here.
+> ⚙️ This project was developed as part of the **DeepLearning.AI “Advanced Computer Vision with TensorFlow”** course on Udemy.  
+> While certain code templates and guidelines were provided as part of the assignment, the **core implementation, analysis, model design, and documentation** were independently written by the author.  
+> No proprietary course materials or instructor code are redistributed here; this repository serves solely for **learning, research, and portfolio** purposes.
 
 ---
 
