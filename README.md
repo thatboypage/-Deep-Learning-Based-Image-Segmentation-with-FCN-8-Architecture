@@ -165,4 +165,4 @@ Mechanical & Machine Learning Engineer
 📧 **Email:** [richardolanite@gmail.com](mailto:richardolanite@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/richardolanite](https://linkedin.com/in/richardolanite)  
 💻 **GitHub:** [github.com/thatboypage](https://github.com/thatboypage)
-
+[Richard Olanite](https://www.linkedin.com/in/richard-olanite-55b4b0241/).
